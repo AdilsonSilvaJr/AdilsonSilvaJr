@@ -5,9 +5,9 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://github.com/AdilsonSilvaJr)
 </div>
 
-## About Me
+## About Me 🤖
 
-- 🔐 Senior Data Engineer with expertise in data warehousing, cloud infrastructure, and data pipeline automation
+- 🎲 Senior Data Engineer with expertise in data warehousing, cloud infrastructure, and data pipeline automation
 - 🔥 Passionate about innovation, mentoring, and streamlining data solutions
 - 📋 Utilizes industry standards and best practices across AWS, Terraform, and Kubernetes environments
 - 🔍 Experienced in building scalable ETL pipelines and managing big data workloads
