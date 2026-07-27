@@ -50,9 +50,6 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)
 
-## GitHub Stats
-
-<img height=170 align="center" src="https://github-readme-stats-inky-seven-35.vercel.app/api?username=AdilsonSilvaJr&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats"/><img height=170 align="center" src="https://github-readme-stats-inky-seven-35.vercel.app/api/top-langs?username=AdilsonSilvaJr&hide_title=true&hide_border=true&layout=compact&langs_count=8&count_private=true&theme=dark" alt="Most Used Languages"/>
 
 ## Current Focus
 
